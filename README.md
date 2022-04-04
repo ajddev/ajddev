@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Anthony Dube - Aspiring Web Developer
+
+- 🔭 I’m currently working on [Destrict](../../../destrict), [Eggflip](../../../eggflip) and my personal [website](https://ajdube.com)
+- 🌱 I’m currently learning React.js and Brazilian Portuguese
+- 📫 How to reach me: [Portfolio](https://ajdube.com)
 
 <!--
 **ajddev/ajddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
