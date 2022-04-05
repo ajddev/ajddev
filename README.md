@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anthony Dube - Aspiring Professional Web Developer
+### Hi there 👋 I am Anthony Dube - Aspiring Full Stack Developer
 
 - 🔭 I’m currently working on [Destrict](../../../destrict), [Eggflip](../../../eggflip) and my personal [website](https://ajdube.com).
 - 🌱 I’m currently learning React.js and Brazilian Portuguese.
