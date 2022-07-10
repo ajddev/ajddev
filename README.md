@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋 I'm Anthony Dube</h2>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">Welcome to my README.md</p>
 
 
