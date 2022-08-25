@@ -3,6 +3,6 @@
 <p align="center">Welcome to my README.md</p>
 
 
-- 🔭 I’m currently working on a few projects [A.N.T.S.](../../../ants), [Cryptoquib](../../../cryptoquib), [TomTomCat](../../../tomtomcat), [EggFlip](../../../eggflip) and my personal [portfolio](https://ajdube.com).
-- 🌱 I’m currently learning Vue.js and Brazilian Portuguese.
+- 🔭 I’m currently working on a few projects [A.N.T.S.](../../../ants), [Cryptoquib](../../../cryptoquib), [EggFlip](../../../eggflip) and my personal [portfolio](https://ajdube.com).
+- 🌱 I’m currently learning Brazilian Portuguese.
 - 📫 How to reach me: [Portfolio](https://ajdube.com)
